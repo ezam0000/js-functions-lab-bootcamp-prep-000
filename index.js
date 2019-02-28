@@ -6,3 +6,7 @@ function happyHolidaysTo(string) {
   return `Happy holidays, ${name}!`
 }
 name = 'you'
+
+function happyHolidayTo (string) {
+  return ''
+}
