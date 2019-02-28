@@ -5,3 +5,4 @@ function happyHolidays(String){
 function happyHolidaysTo(string) {
   return `Happy holidays, ${name}!`
 }
+var = name
