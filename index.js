@@ -8,5 +8,5 @@ function happyHolidaysTo(string) {
 name = 'you'
 
 function happyHolidayTo (string) {
-  return ''
+  return `Happy ${holiday}, ${name}!`
 }
