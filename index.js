@@ -16,3 +16,4 @@ function happyHolidayTo (string) {
 function holidayCountdown (string){
   return `It's ${days} days until ${holiday}!`
 }
+var days=10
