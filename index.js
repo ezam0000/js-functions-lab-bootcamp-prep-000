@@ -12,3 +12,4 @@ holiday = 'Independence Day'
 function happyHolidayTo (string) {
   return `Happy ${holiday}, ${name}!`
 }
+
