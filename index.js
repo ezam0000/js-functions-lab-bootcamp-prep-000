@@ -5,7 +5,9 @@ function happyHolidays(String){
 function happyHolidaysTo(string) {
   return `Happy holidays, ${name}!`
 }
+
 name = 'you'
+holiday = 'Independence Day'
 
 function happyHolidayTo (string) {
   return `Happy ${holiday}, ${name}!`
