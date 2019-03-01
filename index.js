@@ -13,3 +13,6 @@ function happyHolidayTo (string) {
   return `Happy ${holiday}, ${name}!`
 }
 
+function holidayCountdown (string){
+  
+}
